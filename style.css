@@ -1,0 +1,94 @@
+body{
+    color:rgb(255, 251, 0);
+    background-color:rgb(214, 129, 129);
+ }
+ 
+#camera{
+    border:2px dotted black;
+    width:350px;
+    height:300px;
+
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+#camera{
+    border:2px dotted black;
+    width:350px;
+    height:300px;
+
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:brown;
+}
+
+hr{
+    width: 1000px;
+}
+
+
+
+
+#I1{
+    width: 700px; 
+    height: 30px;
+    background-color: rgb(235, 235, 149);
+}
+#I2{
+    width: 700px; 
+    height: 30px; 
+    background-color: rgb(235, 235, 149);
+}
+#I3{
+    width: 700px;
+    height: 30px;
+    background-color: rgb(235, 235, 149);
+}
+#I4{
+    width: 700px;  
+    height: 30px;
+    background-color: rgb(235, 235, 149);
+}
+h3{
+    font-family: 'Festive', cursive;
+    color:black;
+    font-size: 50px;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+#para1{
+    margin-bottom: 50px;
+}
+#meImage{
+ height: 100px;
+ width: 80px;
+ margin-right: 10px;
+ border-radius: 50%;
+}
+#babaImage{
+    height: 100px;
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 50%;
+   }
+   #maaImage{
+    height: 100px;
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 50%;
+   }
+   #bihanImage{
+    height: 100px;
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 50%;
+   }
+   #captured_image{
+       height: 300px;
+       width:  350px;
+   }
+
+
