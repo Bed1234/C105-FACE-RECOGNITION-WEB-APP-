@@ -24,7 +24,7 @@ function take_snapshot() {
 console.log('ml5 version:',ml5.version);
 
 //Image classifier is a predefind function of ml5.js which is used to trigger the image classification function
-classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/4S9qw3bL5/',modelLoaded);
+classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/4S9qw3bL5/model.json',modelLoaded);
 
 
 //defining modelLoaded function
